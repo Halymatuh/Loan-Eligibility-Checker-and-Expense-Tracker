@@ -4,7 +4,7 @@ How It Works
 The program collects four inputs from the applicant:
 Age — must be between 18 and 65 (inclusive)
 Yearly income — must be at least N300,000
-Credit score — must be at least 600 (range 3000-8500)
+Credit score — must be at least 6000 (range 3000-8500)
 Monthly debt payments — used to calculate debt-to-income ratio
 Each requirement is checked individually with comparison operators, then combined with logical and to determine overall eligibility.
 
